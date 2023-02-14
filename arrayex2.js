@@ -48,6 +48,6 @@ let arrayLength = myArray2.length;
 //3
 let lastItem = myArray2[7];
 
-console.log(myArray2)
-console.log(arrayLength)
-console.log(lastItem)
+console.log(myArray2 + "\n")
+console.log(arrayLength+ "\n")
+console.log(lastItem+ "\n")
